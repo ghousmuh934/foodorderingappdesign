@@ -1,16 +1,12 @@
-# mvvm_getx
+# Ghous Muhammad
 
-A new Flutter project.
+Food Ordering System Design in Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application. In this project i used MVVM architecture and getX state management.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://user-images.githubusercontent.com/106868350/227075218-b842cbce-1f29-4b3f-aa83-984256320ab7.mp4
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
